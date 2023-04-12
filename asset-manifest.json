@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vilma-l/carshop/static/css/main.0597ef04.css",
+    "main.js": "/vilma-l/carshop/static/js/main.e1483cb5.js",
+    "static/js/787.22ea9dd3.chunk.js": "/vilma-l/carshop/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/vilma-l/carshop/index.html",
+    "main.0597ef04.css.map": "/vilma-l/carshop/static/css/main.0597ef04.css.map",
+    "main.e1483cb5.js.map": "/vilma-l/carshop/static/js/main.e1483cb5.js.map",
+    "787.22ea9dd3.chunk.js.map": "/vilma-l/carshop/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.e1483cb5.js"
+  ]
+}
